@@ -1,1 +1,1 @@
-git is a whore
+git is for the open-source
