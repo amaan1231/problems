@@ -1,1 +1,1 @@
-git is for the open-source
+im so tilted
