@@ -1,4 +1,4 @@
-let num = 5
+let arr = [8, 6, 4, 4, 1]
 
-if(num > 0 && num < 6)
-    console.log('yeaaaaaaaaaaaaaah')
+arr.pop()
+console.log(arr)
